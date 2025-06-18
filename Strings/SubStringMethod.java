@@ -23,7 +23,7 @@ public class SubStringMethod
 		// Creating object of Scanner class
 		Scanner sc = new Scanner(System.in);
 		// Taking String input from the user
-		String text=sc.nextInt();
+		String text=sc.nextLine();
 		// Taking start and end index input from the user
 		int startIndex=sc.nextInt();
 		int endIndex=sc.nextInt();
