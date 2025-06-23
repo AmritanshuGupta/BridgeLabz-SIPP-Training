@@ -1,6 +1,6 @@
 // Importing scanner class from util package
 import java.util.Scanner;
-// find the maximum of the three numbers.
+// find the maximum of the three numbers
 public class MaxOfThreeNumbers 
 {
 
