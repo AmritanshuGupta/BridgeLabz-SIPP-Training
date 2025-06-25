@@ -1,5 +1,7 @@
+// Define a class to store details of a book in library
 public class LibraryBook 
 {
+    // Initialize variables to store data
     String title;
     String author;
     double price;
@@ -37,7 +39,7 @@ public class LibraryBook
     }
 
     // Main method to test
-    public static void main(String[] args) 
+    public static void main(String... args) 
     {
         LibraryBook book1 = new LibraryBook("The Alchemist", "Paulo Coelho", 350.0, true);
         LibraryBook book2 = new LibraryBook("1984", "George Orwell", 420.0, false);
