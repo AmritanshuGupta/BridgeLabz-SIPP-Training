@@ -52,7 +52,7 @@ Each entry includes concepts covered, skills practiced, and links to the exact c
 
 ### 📅 19/06/25 (Thu) – Day 8 – Java String Handling  
 *Topics*: Mutable vs immutable strings, StringBuilder & StringBuffer, performance comparison, string reversal and manipulation  
-🔗 [Code]()
+🔗 [Code](https://github.com/AmritanshuGupta/BridgeLabz-SIPP-Training/tree/Core-Java/StringHandling)
 
 ---
 
