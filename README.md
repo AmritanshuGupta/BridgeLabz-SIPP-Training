@@ -82,5 +82,11 @@ Each entry includes concepts covered, skills practiced, and links to the exact c
 
 ---
 
+### 📅 25/06/25 (Tue) – Day 5 – Class Inheritance  
+*Topics*: - Inheritance, Single Level Inheritance, Multilevel Inheritance, Hierarchical Inheritance, Key Features of Inheritance, Method Overriding, Constructor Inheritance in Java, Polymorphism and Inheritance, & Access Modifiers and Inheritance  
+🔗 [Code](https://github.com/AmritanshuGupta/BridgeLabz-SIPP-Training/tree/OOPS/ClassInheritance)
+
+---
+
 ## 📝 Note:
 Each topic’s code is organized in its dedicated branch — but this main README connects everything.
