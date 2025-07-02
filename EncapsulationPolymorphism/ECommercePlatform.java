@@ -101,13 +101,10 @@ public class ECommercePlatform
 	{
 		Product[] product = new Product[3];
 		product[0]=new Electronics(80,"Godrej Double Door Refrigerator",15000.0,15.0);
-		product[0].calculateDiscount();
 
 		product[1]=new Groceries(213,"Spring onions",50.0,5.0);
-		product[1].calculateDiscount();
 
 		product[2]=new Clothing(4,"Denim T-Shirt",500.0,10.0);
-		product[2].calculateDiscount();
 	
 		for(Product prod : product)
 		{
