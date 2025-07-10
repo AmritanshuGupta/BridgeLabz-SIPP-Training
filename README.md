@@ -102,5 +102,17 @@ Each entry includes concepts covered, skills practiced, and links to the exact c
 
 ---
 
+### 📅 05/07/25 (Thu) – Day 6 – Stack, Queue & Hash Map 
+*Topics*: - Stack, Queue and Hash Map implementations  
+🔗 [Code](https://github.com/AmritanshuGupta/BridgeLabz-SIPP-Training/tree/DSA/StackQueue)
+
+---
+
+### 📅 06/07/25 (Thu) – Day 7 – Sorting Techniques 
+*Topics*: - Bubble Sort, Insertion Sort, Selection Sort, Counting Sort, Merge Sort, Quick Sort, Heap Sort   
+🔗 [Code](https://github.com/AmritanshuGupta/BridgeLabz-SIPP-Training/tree/DSA/SortingTechniques)
+
+---
+
 ## 📝 Note:
 Each topic’s code is organized in its dedicated branch — but this main README connects everything.
