@@ -96,21 +96,33 @@ Each entry includes concepts covered, skills practiced, and links to the exact c
 
 ## DSA Branch 📂
 
-### 📅 04/07/25 (Thu) – Day 5 – Linked Lists 
+### 📅 04/07/25 (Mon) – Day 5 – Linked Lists 
 *Topics*: - Singly Linked list, Doubly Linked list, Circular Linked list implementations  
 🔗 [Code](https://github.com/AmritanshuGupta/BridgeLabz-SIPP-Training/tree/DSA/LinkedList)
 
 ---
 
-### 📅 05/07/25 (Thu) – Day 6 – Stack, Queue & Hash Map 
+### 📅 05/07/25 (Tue) – Day 6 – Stack, Queue & Hash Map 
 *Topics*: - Stack, Queue and Hash Map implementations  
 🔗 [Code](https://github.com/AmritanshuGupta/BridgeLabz-SIPP-Training/tree/DSA/StackQueue)
 
 ---
 
-### 📅 06/07/25 (Thu) – Day 7 – Sorting Techniques 
+### 📅 06/07/25 (Wed) – Day 7 – Sorting Techniques 
 *Topics*: - Bubble Sort, Insertion Sort, Selection Sort, Counting Sort, Merge Sort, Quick Sort, Heap Sort   
 🔗 [Code](https://github.com/AmritanshuGupta/BridgeLabz-SIPP-Training/tree/DSA/SortingTechniques)
+
+---
+
+### 📅 10/07/25 (Thu) – Day 8 – Searching Techniques 
+*Topics*: - StringBuilder, StringBuffer, FileReader, InputStreamReader, Linear Search, Binary Search   
+🔗 [Code](https://github.com/AmritanshuGupta/BridgeLabz-SIPP-Training/tree/DSA/SearchingTechniques)
+
+---
+
+### 📅 11/07/25 (Fri) – Day 9 – Algorithm's Runtime Analysis & Big-O Notation
+*Topics*: - General Algorithm Best Practices, Time and space Complexity Optimization   
+🔗 [Code](https://github.com/AmritanshuGupta/BridgeLabz-SIPP-Training/tree/DSA/RuntimeAnalysisAndBigONotation)
 
 ---
 
